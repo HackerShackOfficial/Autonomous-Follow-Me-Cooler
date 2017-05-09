@@ -1,2 +1,2 @@
 # Autonomous-Follow-Me-Cooler
-Cooler that follows you by navigate via GPS
+Cooler that follows you by navigating via GPS
