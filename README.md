@@ -1,7 +1,7 @@
 # Autonomous-Follow-Me-Cooler
 Cooler that follows you by navigating via GPS.
 
-**Disclaimer: When testing the cooler, we noticed that the GPS coordinates streamed from Blynk were often inaccurate. While it works for some locations, it doesn't for others. If you want high precision, we highly suggest creating your own Android app to stream GPS coordinates**
+**Disclaimer: When testing the cooler, we noticed that the GPS coordinates streamed from Blynk were often inaccurate. While it works for some locations, it doesn't for others. If you want high precision, we highly suggest creating your own Android app to stream GPS coordinates.**
 
 ## Installation
 All files for this project are contained in the `/cooler` directory. Open the directory and click the `cooler.ino`. The Arduino IDE should open with all of the files in that directory. 
