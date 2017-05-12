@@ -1,5 +1,5 @@
 # Autonomous-Follow-Me-Cooler
-Cooler that follows you by navigating via GPS.
+Our autonomous cooler has two modes: GPS Streaming and GPS Waypoint. While in GPS Streaming mode, the cooler will follow you by streaming coordinates from your phone. In GPS Waypoint mode, you can set send a predetermined set of coordinates that the cooler will travel to.
 
 **Disclaimer: When testing the cooler, we noticed that the GPS coordinates streamed from Blynk were often inaccurate. While it works for some locations, it doesn't for others. If you want high precision, we highly suggest creating your own Android app to stream GPS coordinates.**
 
